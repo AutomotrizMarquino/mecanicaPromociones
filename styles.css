@@ -20,7 +20,7 @@ header h1 {
 /* Estilo base para el h1 */
 h1 {
     font-size: 2rem; /* Tamaño de fuente */
-    color: white; /* Color del texto */
+    color: red; /* Color del texto */
     text-align: center; /* Centrar el texto */
     margin: 20px 0; /* Espaciado exterior */
 }
